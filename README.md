@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on cybersecurity, risk analysis, crisis analysis, CTI & Geopolitics.<br>👯 I’m looking to collaborate on CTI & OSINT projects and classrooms for newcomers !<br>🤝 I’m looking for help with hardware, forensics, RE & virology.<br>🌱 I’m currently learning web3 techs, a funny world not yet fully used.<br>💬 Ask me about SE, maths & philosophy ;)<br>⚡ Fun fact : I'm fond of craft beers.
+🔭 I’m currently working on cybersecurity, risk analysis, crisis analysis, CTI & Geopolitics.<br>👯 I’m looking to collaborate on CTI & OSINT projects and classrooms for newcomers !<br>🤝 I’m looking for help with hardware, forensics, RE & virology.<br>🌱 I’m currently learning AI agents & related techs, a funny world.<br>💬 Ask me about SE, maths & philosophy ;)<br>⚡ Fun fact : I'm fond of craft beers.
 
 
 ## 🌐 Socials:
